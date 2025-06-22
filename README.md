@@ -37,7 +37,7 @@ To design and implement a responsive web-based image gallery with clean layout, 
 
 ## 🔗 GitHub Repository
 
-💻 [GitHub Project Link](https://github.com/yourusername/ImageGallery_CodeAlpha) *(Replace with actual link)*
+💻 [GitHub Project Link] https://github.com/zeeshanhyder12/CodeAlpha_Image_Gallery?tab=readme-ov-file
 
 ---
 
